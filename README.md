@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Sebas (aka ZigmaS)<br><br>🔭 Currently building:<br>Design systems, data dashboards, and creative tools that blend tech, art, and sustainability!<br><br>👯 Collaboration goals:<br>Open-source projects at the intersection of design, data, and storytelling.<br><br>🌱 Learning:<br>A lot of regenerative agriculture, weirdly enough!<br><br>💬 Ask me about:<br>Design systems, creative workflows, 5G bonding tech or regenerative agriculture.<br><br>⚡ Fun fact:<br>Once built a fashion brand, designed a candy store, co-founded a web-hosting company, and now I grow data with plants.
+👋 Hey, I’m Sebas (aka ZigmaS)<br><br>🔭 Currently building:<br>Design systems, data dashboards, and creative tools that blend tech, art, and sustainability!<br><br>👯 Collaboration goals:<br>Open-source projects at the intersection of design, data, and storytelling.<br><br>🌱 Learning:<br>A lot of regenerative agriculture, weirdly enough!<br><br>💬 Ask me about:<br>Design systems, creative workflows, 5G bonding tech or regenerative agriculture.<br><br>⚡ Fun fact:<br>Once built a handful of fashion brands, designed a candy store, co-founded a web-hosting company, and now I grow data with plants.
 
 
 ## 🌐 Socials:
